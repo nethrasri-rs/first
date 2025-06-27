@@ -1,3 +1,5 @@
 hello I am nethra and this is my first project
 
-i am doing my second commit
+i am doing my second commit 
+
+this is my third commit
