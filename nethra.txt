@@ -1,1 +1,3 @@
 hello I am nethra and this is my first project
+
+i am doing my second commit
